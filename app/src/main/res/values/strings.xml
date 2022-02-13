@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Nebula</string>
+    <string name="Open">ShoesApp</string>
+    <string name="Close">ShoesApp</string>
+    <string name="text_search">Tìm kiếm</string>
+    <string name="text_nike">NIKE</string>
+    <string name="main">Main</string>
+    <string name="txt_sp">Sản Phẩm</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_cart">Giỏ hàng</string>
+    <string name="nav_account">Tài khoản</string>
+    <string name="nhap_tk">Nhập tài khoản</string>
+    <string name="nhap_pw">Nhập mật khẩu</string>
+    <string name="quenmatkhau">Quên mật khẩu ?</string>
+    <string name="btnDangnhap">Đăng nhập</string>
+    <string name="dangkitaikhoan">Bạn chưa có tài khoản? Hãy đăng kí.</string>
+
+    <string name="signup_hoten">Nhập họ và tên</string>
+    <string name="signup_diachi">Nhập địa chỉ</string>
+    <string name="signup_sdt"> Nhập số điện thoại</string>
+    <string name="signup_email">Nhập email</string>
+    <string name="signup_nhaplaimatkhau">Nhập lại mật khẩu</string>
+    <string name="signup_dangki">Đăng kí</string>
+    <string name="signup_dangnhaplai">Bạn đã có tài khoản? Hãy đăng nhập.</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="tensanpham">ALPHABOOST</string>
+    <string name="gia">3.500.000đ</string>
+    <string name="chitietsanpham">Chi tiết sản phẩm</string>
+    <string name="bieudokichco">Biểu đồ kích cỡ</string>
+    <string name="soluongsp">Số lượng</string>
+    <string name="thongtinsanpham">- Mã sản phẩm: EE4164\n- Giày ôm chân, có dây buộc.\n- Thân giày bằng vải lưới.\n- Nhẹ và thoáng khí.\n- Giày nâng đỡ dành cho rèn luyện tốc độ.\n- Đế giữa công nghệ Boost đàn hồi.\n- Đế ngoài cao su Continental.\n- Màu sản phẩm: Signal Green / Signal Green / Signal Green.</string>
+    <string name="size7uk">7 UK</string>
+    <string name="size8uk">8 UK</string>
+    <string name="size9uk">9 UK</string>
+    <string name="size10uk">10 UK</string>
+    <string name="dathang">Thêm vào giỏ hàng</string>
+
+    <string name="text_quenmk">Bạn quên mật khẩu?</string>
+    <string name="text_quenmk2">Vui lòng cung cấp email đã đăng kí.</string>
+    <string name="txtmuangay">Mua ngay</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

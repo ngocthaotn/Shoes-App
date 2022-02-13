@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">345371257806-6seb2ii29r3gtpb66qun2jcr9gdpepup.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shoesdatabase-b8db9.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">345371257806</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnOskBOQuKfuCaBz1qLXVK5gCmw0uC1-o</string>
+    <string name="google_app_id" translatable="false">1:345371257806:android:4b014b0bec80ae757c599f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnOskBOQuKfuCaBz1qLXVK5gCmw0uC1-o</string>
+    <string name="google_storage_bucket" translatable="false">shoesdatabase-b8db9.appspot.com</string>
+    <string name="project_id" translatable="false">shoesdatabase-b8db9</string>
+</resources>
